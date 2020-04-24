@@ -17,6 +17,10 @@ body {
     background: $violet;
 }
 
+.header {
+    color: rgb(255, 174, 0);
+}
+
 .list {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -34,8 +38,9 @@ body {
 }
 
 a {
+    color: rgb(248, 232, 0);
     text-decoration: none;
     &:hover {
-        color: #48ff00;
+        color: #ffffff;
     }
 }

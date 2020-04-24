@@ -322,6 +322,9 @@ body {
   color: #F9C802;
   background: #000; }
 
+.header {
+  color: #ffae00; }
+
 .list {
   display: -ms-grid;
   display: grid;
@@ -337,8 +340,9 @@ body {
     margin-left: -1rem; }
 
 a {
+  color: #f8e800;
   text-decoration: none; }
   a:hover {
-    color: #48ff00; }
+    color: #ffffff; }
 
 /*# sourceMappingURL=main.css.map */
