@@ -1,7 +1,7 @@
 # Fetch-API-test
 
 
-![Fetch-API-test](src/assets/img/cover.png)
+![Fetch-API-test](src/assets/img/screenshot.PNG)
 
 This website was created to learn fetch api and built during WTF - Co Ten Frontend course. [https://cotenfrontend.pl/](https://cotenfrontend.pl/)
 
