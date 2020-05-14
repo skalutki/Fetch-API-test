@@ -6,7 +6,7 @@
 This website was created to learn fetch api and built during WTF - Co Ten Frontend course. [https://cotenfrontend.pl/](https://cotenfrontend.pl/)
 
 
-# I encourage you to visit my website [Demo]https://skalutki.github.io/Fetch-API-test/) 
+# I encourage you to visit my website [Demo](https://skalutki.github.io/Fetch-API-test/) 
 
 
 ## Tool & technologies I've used:
